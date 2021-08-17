@@ -1,6 +1,13 @@
 # Boas vindas ao repositório do projeto de Movie Cards CRUD!
 
-    `Requisitos Obrigatórios:`
+### Entrando no Projeto
+
+- Clone o Projeto
+- Entre na Pasta do Projeto
+- Instale as dependências : npm install
+- Inicie a aplicação: npm start
+
+    `Requisitos Propostos:`
     - [1 - Renderize BrowserRouter no componente App usando rotas]
     - [2 - Faça uma requisição para buscar e mostrar a lista de filmes quando MovieList for montado]
     - [3 - Insira um link para a página de detalhes de um filme dentro de MovieCard]
